@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+DDEONSIK's+GitHub!👋&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40)
 
+<!--
 -------
 
-<!--
+
 [![DDEONSIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDEONSIK&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/DDEONSIK/github-readme-stats)
  
 <br>
