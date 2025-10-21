@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+DDEONSIK's+GitHub!👋&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=50&text=Welcome+to+DDEONSIK's+GitHub!👋&fontAlign=50&fontAlignY=40&color=gradient)
 
 
 
