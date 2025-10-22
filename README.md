@@ -1,5 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+DDEONSIK's+GitHub!👋&fontAlign=50&fontAlignY=40&color=gradient&fontSize=40)
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">I...</h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        🔥Current:<br>
+        - Researching VLM!<br><br>
+        🎯Future:<br>
+        - Preparing for PhD! Or Looking for a job!<br><br>
+        ⭐Keywords:<br>
+        - Autonomous driving, VLM.<br><br>
+        📜Notice:<br>
+        - My code run is organized in a document in a notepad style.<br>
+        - Repository code will be uploaded after the paper is accepted.
+    </div>
+</div>
+    
+
 <!--
 -------
 
